@@ -5,7 +5,7 @@ The list of functions here is by no means an extensive list of the calculations 
 
 # Language:
 The entire program was written in Python, since I figured it would mostly be computational stuff for which Python would do fine. It was also just my preferred programing language.
-The program requires just two python modules: I trtied to write most of the functions from scratch, rahter than using numpy or some other module. the Math module was used mostly just for the trig functions and pygame was also used just for an easy way to display visuals.
+The program requires just two python modules: I trtied to write most of the functions from scratch, rather than using numpy or some other module. The modules used were math, for basic trig functions, and PIL to display premade diagrams.
 
 # Functions Included:
 1 - Find the best Square Steel HSS for the given loads
