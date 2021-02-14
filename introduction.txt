@@ -1,0 +1,26 @@
+INITIALIZING GUIDED ENGINEERING CALCULATOR
+Written by Daniel Han for YUHacks's new hacker category
+
+
+This program was designed to take the tedious calculation part out of Engineering.
+Many common engineering formulas, equations that are particularly tedious are here so that all you have to do is plug in your values.
+
+
+Below is a directory of the functions available:
+
+
+0 - if you are familiar with the functions, enter 0 to use them at your leisure
+
+1 - Find the best Square Steel HSS for the given loads
+
+2 - Find the moment of inertia of comon cross-sections
+
+3 - Analyze Warren Trusses; find the best HSS to use for both chords and the web
+
+4 - Analyze tensions in cables of suspension bridge
+
+5 - Calculate the net force on a particle in 2D
+
+6 - Find the appropriate materials to use based on material property requirements
+
+To access and learn about a specific task, type in its number and hit enter.
